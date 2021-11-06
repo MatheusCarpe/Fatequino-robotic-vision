@@ -8,7 +8,7 @@ setup(
     description = 'Montar uma descrição',
     long_description= 'Minha descrição README',
     license = 'MIT',
-    url = 'Caminho do Github',
+    url = 'https://github.com/MatheusCarpe/Fatequino_Teste',
     keywords = ['VISAO', 'FATEC', 'PROFESSORES', 'TURMAS'],
     classifiers = [
       'Development Status :: 4 - Beta',
