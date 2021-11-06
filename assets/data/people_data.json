@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Ricardo Careta",
+        "type": "Aluno",
+        "status": "CREATED"
+    },
+    {
+        "id": 2,
+        "name": "Robert Gates",
+        "type": "Professor",
+        "status": "CREATED"
+    },
+    {
+        "id": 3,
+        "name": "Scarlett Johansson",
+        "type": "Funcionário",
+        "status": "CREATED"
+    },
+    {
+        "id": 4,
+        "name": "Katherine Heigl",
+        "type": "Funcionário",
+        "status": "CREATED"
+    },
+    {
+        "id": 5,
+        "name": "David Duchovny",
+        "type": "Aluno",
+        "status": "CREATED"
+    },
+    {
+        "id": 6,
+        "name": "Danny Devito",
+        "type": "Aluno",
+        "status": "CREATED"
+    },
+    {
+        "id": 7,
+        "name": "Barack Obama",
+        "type": "Aluno",
+        "status": "CREATED"
+    }
+]

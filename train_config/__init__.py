@@ -1,0 +1,1 @@
+from .train_config import get_property
