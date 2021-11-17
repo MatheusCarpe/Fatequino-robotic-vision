@@ -1,3 +1,3 @@
-from train_config.train_config import get_property
-from face_images.face_images import train
-from face_train.FaceTrain import FaceTrain
+from Faces import PreparaMonitor, monitora, DrawImage, main, loadImages
+from HandGestureV3 import main
+from HandGestureV4 import findPosition
